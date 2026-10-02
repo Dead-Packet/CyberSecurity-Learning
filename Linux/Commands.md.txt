@@ -5,3 +5,11 @@ cd - change directory
 mkdir - make directory
 rmdir - remove directory
 cd.. - move up one directory 
+new-item - create new file
+remove-item - remove file
+get-content - show what's inside file
+set-content - replace contents inside file
+add-content - add text to file 
+rename-item - rename file 
+copy-item - copy file
+move-item - move file
