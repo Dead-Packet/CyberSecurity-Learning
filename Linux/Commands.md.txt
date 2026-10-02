@@ -2,4 +2,4 @@ Linux commands
 pwd - print working directory
 ls - list files
 cd - change directory 
-mkd - mark directory
+mkdir - make directory
